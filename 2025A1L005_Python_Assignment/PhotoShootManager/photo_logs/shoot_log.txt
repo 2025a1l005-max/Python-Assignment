@@ -1,0 +1,2 @@
+ADI-POR-01|Aditi|Portrait|320|18.5|16.0|145|5.78|Moderate|Yes
+ROH-EVE-02|Rohan|Event|1200|22.0|16.0|240|25.78|Heavy|No
